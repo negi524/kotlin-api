@@ -1,0 +1,17 @@
+{
+  "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-21",
+        "path": "~/.local/share/mise/installs/java/temurin-21.0.10+7.0.LTS",
+        "default": true
+      },
+      {
+        "name": "JavaSE-23",
+        "path": "~/.local/share/mise/installs/java/temurin-23.0.2+7"
+      },
+      {
+        "name": "JavaSE-25",
+        "path": "~/.local/share/mise/installs/java/temurin-25.0.2+10.0.LTS"
+      }
+    ]
+}
